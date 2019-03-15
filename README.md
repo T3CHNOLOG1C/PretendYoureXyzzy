@@ -14,8 +14,8 @@ For GeoIP functions to work, download http://geolite.maxmind.com/download/geoip/
 
 ## Third-Party Usage
 
-A Docker package for this project exists at [emcniece/DockerYourXyzzy](https://github.com/emcniece/DockerYourXyzzy):
+A Docker package for this project exists at [T3CHNOLOG1C/DockerYourXyzzy](https://github.com/T3CHNOLOG1C/DockerYourXyzzy):
 
 ```sh
-docker run -d -p 8080:8080 emcniece/dockeryourxyzzy:dev
+docker run -d -p 8080:8080 T3CHNOLOG1C/dockeryourxyzzy:dev
 ```
